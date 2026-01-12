@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amir Abbas
 
-**AI Engineer** | Machine Learning Enthusiast 
+**Data Scientist** | Machine Learning Enthusiast | AI agents | AI Engineering
 
 ## 🚀 About Me
 
